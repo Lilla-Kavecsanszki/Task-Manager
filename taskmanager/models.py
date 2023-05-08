@@ -1,6 +1,3 @@
-
- 
-
 from taskmanager import db
 
 
